@@ -1,16 +1,14 @@
-# flutter_run_record_app
+## 📸 ตัวอย่างหน้าจอ
 
-A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+<table>
+  <tr>
+    <td><img src="https://github.com/user-attachments/assets/de62068a-cc54-417c-90fc-589a7682628b" width="250"/></td>
+    <td><img src="https://github.com/user-attachments/assets/2362916d-c280-431f-8872-319a68e9132a" width="250"/></td>
+    <td><img src="https://github.com/user-attachments/assets/61501053-d9fd-407b-ae8c-78025fb70fed" width="250"/></td>
+  </tr>
+  <tr>
+    <td><img src="https://github.com/user-attachments/assets/84d15fe0-649b-4bb4-bdd9-da7308754a32" width="250"/></td>
+    <td><img src="https://github.com/user-attachments/assets/574cb1c8-e2cd-423b-843b-3a6d99428f35" width="250"/></td>
+    <td><img src="https://github.com/user-attachments/assets/d3641986-683f-4cd1-ae3e-22081d7d06da" width="250"/></td>
+  </tr>
+</table>
